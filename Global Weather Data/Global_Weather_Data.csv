@@ -1,4 +1,4 @@
-City,Cloudiness,Country,Date,Humidity,Latitude,Longitude,Max Temp (F),Wind Speed
+City,Cloudiness,Country,Date,Humidity (%),Latitude,Longitude,Max Temp (F),Wind Speed (mph)
 Cape Town,0,ZA,1571347346,88,-33.93,18.42,64.99,5.99
 Mar del Plata,0,AR,1571347347,21,-46.43,-67.52,67.7,16.71
 Weihe,94,CN,1571347349,95,32.99,105.33,47.4,2.57
