@@ -15,6 +15,15 @@ The goal of this project was to analyze weather data related to maximum temperat
 
 ## Tasks
 
+1. Generate 2000 random latitude and longitude combinations.
+2. Find name of nearest city for each combination and eliminate duplicates.
+3. Contact Open Weather Map API and extract weather data for city names present in API database.
+4. Transform extracted weather data into Pandas data frame.
+5. Export data frame to CSV file.
+6. Generate scatter plot of maximum temperature data versus latitude.
+7. Generate scatter plot of humidity data versus latitude.
+8. Generate scatter plot of cloudiness versus latitude.
+9. Generate scatter plot of wind speed versus latitude.
 
 ## Results
 
