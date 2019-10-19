@@ -4,10 +4,10 @@ The goal of this project was to analyze weather data related to maximum temperat
 
 ## Questions
 
-1. Is there a correlation between latitude and maximum temperature? If so, what is the nature of that relationship?
-2. Is there a correlation between latitude and humidity? If so, what is the nature of that relationship?
-3. Is there a correlation between latitude and cloudiness? If so, what is the nature of that relationship?
-4. Is there a correlation between latitude and wind speed? If so, what is the nature of that relationship?
+1. Is a correlation present between latitude and maximum temperature? If so, what is the nature of that relationship?
+2. Is a correlation present between latitude and humidity? If so, what is the nature of that relationship?
+3. Is a correlation present between latitude and cloudiness? If so, what is the nature of that relationship?
+4. Is a correlation present between latitude and wind speed? If so, what is the nature of that relationship?
 
 ## Datasets
 
