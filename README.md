@@ -15,7 +15,19 @@ The goal of this project was to analyze weather data related to maximum temperat
 
 ## Tasks
 
+### City Latitude Versus Maximum Temperature
 
+
+
+### City Latitude Versus Humidity
+
+
+
+### City Latitude Versus Cloudiness
+
+
+
+### City Latitude Versus Wind Speed
 
 ## Results
 
