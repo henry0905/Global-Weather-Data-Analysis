@@ -20,19 +20,19 @@ The goal of this project was to analyze weather data related to maximum temperat
 
 ### City Latitude Versus Maximum Temperature
 
-<img_src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Maximum_Temperature.png>
+<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Maximum_Temperature.png>
 
 ### City Latitude Versus Humidity
 
-<img_src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Humidity.png>
+<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Humidity.png>
 
 ### City Latitude Versus Cloudiness
 
-<img_src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Cloudiness.png>
+<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Cloudiness.png>
 
 ### City Latitude Versus Wind Speed
 
-<img_src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Wind_Speed.png>
+<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Wind_Speed.png>
 
 ## Observations
 
