@@ -22,8 +22,8 @@ The goal of this project was to analyze weather data related to maximum temperat
 5. Export the data frame to CSV file.
 6. Generate a scatter plot of maximum temperature data versus latitude.
 7. Generate a scatter plot of humidity data versus latitude.
-8. Generate a scatter plot of wind speed versus latitude.
-9. Generate a scatter plot of cloudiness versus latitude.
+8. Generate a scatter plot of wind speed data versus latitude.
+9. Generate a scatter plot of cloudiness data versus latitude.
 
 ## Results
 
