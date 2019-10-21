@@ -27,21 +27,21 @@ The goal of this project was to analyze weather data related to maximum temperat
 
 ## Results
 
-### City Latitude Versus Maximum Temperature
+### Maximum Temperature vs City Latitude
 
-<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Maximum_Temperature.png>
+<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/Maximum_Temperature_vs_City_Latitude.png>
 
-### City Latitude Versus Humidity
+### Humidity vs City Latitude
 
-<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Humidity.png>
+<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/Humidity_vs_City_Latitude.png>
 
-### City Latitude Versus Wind Speed
+### Wind Speed vs City Latitude
 
-<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Wind_Speed.png>
+<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/Wind_Speed_vs_City_Latitude.png>
 
-### City Latitude Versus Cloudiness
+### Cloudiness vs City Latitude
 
-<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/City_Latitude_vs_Cloudiness.png>
+<img src = https://github.com/mjknj18/Global-Weather-Data-Analysis/blob/master/Images/Cloudiness_vs_City_Latitude.png>
 
 ## Observations
 
